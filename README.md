@@ -1,2 +1,0 @@
-# KnowledgeLib
-Studylog
